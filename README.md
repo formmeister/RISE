@@ -1,6 +1,7 @@
 # RISE
 RISE - Standing Desk Extension
 formmmeister by Nearby Minds UG
+
 We specialise in Open Design, Location Based Marketing and in Innovation & Craft.
 
 Why we created RISE...
